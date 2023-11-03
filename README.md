@@ -10,8 +10,8 @@
 ## About Kroma
 
 Kroma is the first universal stage 2 Layer 2 (L2) on Ethereum. Kroma has been developed based on Optimism Bedrock
-architecture, and aims to be a universal ZK rollup. Currently, Kroma operates as an Optimistic rollup with ZK fault
-proofs, utilizing a zkEVM based on Scroll. The goal of Kroma is to eventually transition to a ZK rollup once the
+architecture, and aims to be a universal ZK Rollup. Currently, Kroma operates as an Optimistic rollup with ZK fault
+proofs, utilizing a zkEVM based on Scroll. The goal of Kroma is to eventually transition to a ZK Rollup once the
 generation of ZK proofs becomes more cost-efficient and faster.
 
 Kroma offers lower transactions fees compared to the Ethereum mainnet, with native Ethereum security and EVM
